@@ -1,13 +1,13 @@
-# Hi, I'm Felix Divine 👋 
+# Hi, I'm Felix Divine  
 **Junior Data Analyst | Certified Google Data Analyst**
 
 Analytical and detail-oriented Junior Data Analyst with a background in Economics and Development Studies. I specialize in turning complex, unstructured data into interactive dashboards and tactical business strategies.
 
-🔧 **Technical Toolbelt:** SQL | Power BI | Tableau | Advanced Excel (Power Query) | Financial Modeling
+ **Technical Toolbelt:** SQL | Power BI | Tableau | Advanced Excel (Power Query) | Financial Modeling
 
 ---
 
-## 📁 Featured Data Analytics Projects
+## Featured Data Analytics Projects
 
 ### 📊 1. E-Commerce Customer Retention & Churn Analytics
 * **Tools Used:** SQL, Power BI, Excel Power Query
@@ -26,5 +26,5 @@ Analytical and detail-oriented Junior Data Analyst with a background in Economic
 ---
 
 ##  Connect With Me
-* 💼 **LinkedIn:** [Your LinkedIn Link]
-* 📧 **Email:** divinesenami19@gmail.com
+* **LinkedIn:** 
+* **Email:** divinesenami19@gmail.com
