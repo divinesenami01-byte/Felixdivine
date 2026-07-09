@@ -1,4 +1,4 @@
-# Hi, I'm Felix Divine Senami 👋 
+# Hi, I'm Felix Divine 👋 
 **Junior Data Analyst | Certified Google Data Analyst**
 
 Analytical and detail-oriented Junior Data Analyst with a background in Economics and Development Studies. I specialize in turning complex, unstructured data into interactive dashboards and tactical business strategies.
@@ -25,6 +25,6 @@ Analytical and detail-oriented Junior Data Analyst with a background in Economic
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 * 💼 **LinkedIn:** [Your LinkedIn Link]
 * 📧 **Email:** divinesenami19@gmail.com
