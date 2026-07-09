@@ -1,14 +1,14 @@
 # E-Commerce Customer Retention & Churn Analysis
 
-## 🎯 Executive Summary
+##  Executive Summary
 This project analyzes customer transaction patterns for an e-commerce platform experiencing a drop in repeat purchases. By writing structured SQL queries to calculate user retention cohorts, I identified a critical 40% drop-off in customer engagement after month two, primarily driven by users acquired via promotional social media campaigns.
 
-## 🧰 Tech Stack
+## Tech Stack
 * **Database Analysis**: PostgreSQL / MySQL (CTEs, Subqueries, Date Functions)
 * **Data Visualization**: Power BI / Tableau
 * **Data Cleansing**: Excel Power Query
 
-## 💻 SQL Code Snippets
+##  SQL Code Snippets
 Below is the core logic I utilized to extract monthly customer transaction cohorts:
 
 ```sql
